@@ -5,6 +5,11 @@
 Project code for Udacity's AI Programming with Python Nanodegree program.
 In this project, I had to develop code for an image classifier built with PyTorch, then convert it into a command line application for portability.
 
+# Blog Post
+
+I wrote a 2-part blog post titled: [My Experience And What I Learned From Udacity AI Programming With Python Nano-Degree: Part 1.](https://blog.mphomphego.co.za/blog/2019/12/15/My-Experience-And-What-I-Learned-From-Udacity-AI-Programming-With-Python-Nano-Degree-Part-1.html) and [My Experience And What I Learned From Udacity AI Programming With Python Nano-Degree: Part 2.](https://blog.mphomphego.co.za/blog/2020/01/06/My-Experience-And-What-I-Learned-From-Udacity-AI-Programming-With-Python-Nano-Degree-Part-2.html) 
+
+
 # Prerequisites
 
 Run the command below in order to install the dependencies.
